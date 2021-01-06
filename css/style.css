@@ -1,9 +1,17 @@
+head{
+
+}
+
+body{
+	font-family: 'Dosis', sans-serif;
+}
+
 p{
 	color: #eddcd2;
 	font-size: 36px;
 	font-weight: 700;
 	font-family: 'VT323', monospace;
-	
+
 }
 
 .special{
