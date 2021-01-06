@@ -1,14 +1,29 @@
-head{
+h1{
+	color: #B7B7A4;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'VT323', monospace;
 
+}
+
+h2{
+	color: #eddcd2;
+	font-size: 36px;
+	font-weight: 400;
+	font-family: 'VT323', monospace;
+	
 }
 
 body{
 	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+	background-color: #F0EFEB;
+	text-align: left;
 }
 
 p{
-	color: #eddcd2;
-	font-size: 36px;
+	color: black;
+	font-size: 24px;
 	font-weight: 700;
 	font-family: 'VT323', monospace;
 
