@@ -1,12 +1,13 @@
 p{
 	color: #eddcd2;
-	font-size: 20px;
+	font-size: 36px;
 	font-weight: 700;
-
+	font-family: 'VT323', monospace;
+	
 }
 
 .special{
-	color: magenta;
-	font-size: 36px;
+	color: #A5A58D;
+	font-size: 20px;
 
 }
