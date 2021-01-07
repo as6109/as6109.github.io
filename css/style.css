@@ -1,5 +1,5 @@
 h1{
-	color: #B7B7A4;
+	color: #A5A58D;
 	font-size: 50px;
 	font-weight: 700;
 	font-family: 'VT323', monospace;
@@ -7,30 +7,34 @@ h1{
 }
 
 h2{
-	color: #eddcd2;
+	color: #B7B7A4;
 	font-size: 36px;
 	font-weight: 400;
 	font-family: 'VT323', monospace;
 	
 }
 
-body{
-	font-family: 'Dosis', sans-serif;
-	font-size: 20px;
-	background-color: #F0EFEB;
-	text-align: left;
-}
-
-p{
-	color: black;
-	font-size: 24px;
-	font-weight: 400;
-	font-family: 'Dosis', sans-serif;
-
-}
-
 .special{
 	font-size: 40px;
 	font-weight: 700;
+
+}
+
+body{
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+	background-color: #FFF1E6;
+	text-align: left;
+	margin: auto;
+  	width: 50%;
+  	max-width: 800px;
+  	min-width: 300px;
+}
+
+p{
+	color: #DDBEA9;
+	font-size: 24px;
+	font-weight: 400;
+	font-family: 'Dosis', sans-serif;
 
 }
