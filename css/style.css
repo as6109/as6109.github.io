@@ -7,7 +7,7 @@ h1{
 }
 
 h2{
-	color: #B7B7A4;
+	color: #DDBEA9;
 	font-size: 36px;
 	font-weight: 400;
 	font-family: 'Noto Sans KR', sans-serif;
@@ -15,8 +15,7 @@ h2{
 }
 
 .special{
-	font-size: 40px;
-	font-weight: 700;
+
 
 }
 
@@ -32,7 +31,7 @@ body{
 }
 
 p{
-	color: #DDBEA9;
+	color: #B7B7A4;
 	font-size: 24px;
 	font-weight: 400;
 	font-family: 'Roboto Mono', monospace;
