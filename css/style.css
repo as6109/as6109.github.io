@@ -19,6 +19,16 @@ h2{
 
 }
 
+.underline--magical {
+  background-image: linear-gradient(120deg, #fbc4ab 0%, #f8ad9d 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  &:hover {
+    background-size: 100%;
+  }
+}
+
 body{
 	font-family: 'Roboto Mono', monospace;
 	font-size: 20px;
