@@ -29,10 +29,25 @@ h2{
   }
 }
 
+body {
+  width: 50%;
+  margin: 10vw auto;
+}
+.heading {
+	font-family: 'Noto Sans KR', sans-serif;
+  font-size: 50px;
+}
+
+.subheading {
+	font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
 body{
 	font-family: 'Roboto Mono', monospace;
 	font-size: 20px;
-	background-color: #FFF1E6;
+	background-color: #f8edeb;
 	text-align: left;
 	margin: auto;
   	width: 70%;
