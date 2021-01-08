@@ -29,12 +29,21 @@ h2{
 	background-size: 100%;
 }
 
+#port-nav{
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 18px;
+	font-weight: 400; 
+	padding: 0px 0px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
 .navbar-nav > li{
     padding-left: 10px;
     padding-right: 10px;
   }
   .div-line{
-    border-top: 1.2px solid #8A97AD; 
+    border-top: 1.2px solid #8A97AD;
   }
   .space-between-section-top{
     padding-top: 30px;
