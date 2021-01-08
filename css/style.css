@@ -37,7 +37,8 @@ nav{
 
 nav li{
     display:inline-block;
-    padding: 40px 50px;
+		display:center;
+    padding: 20px 30px;
 }
 
 nav li a{
@@ -47,7 +48,7 @@ nav li a{
     font-weight: 400;
     letter-spacing: 1px;
     transition: 1s;
-    top:-44px;
+    top: 50px;
 }
 
 nav li a:hover{
