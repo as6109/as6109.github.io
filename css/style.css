@@ -15,8 +15,6 @@ h2{
 }
 
 .special{
-
-
 }
 
 .underline--magical {
@@ -24,9 +22,10 @@ h2{
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: 0 88%;
-  &:hover {
-    background-size: 100%;
-  }
+}
+
+.underline--magical:hover{
+	background-size: 100% 80%;
 }
 
 body {
