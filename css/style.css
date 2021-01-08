@@ -29,6 +29,37 @@ h2{
 	background-size: 100%;
 }
 
+nav{
+    background: transparent;
+    width: 50%;
+    text-align:center;
+    }
+
+nav li{
+    display:inline-block;
+    padding: 40px 50px;
+}
+
+nav li a{
+    color: #cb997e;
+    font-size: 20px;
+		font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    transition: 1s;
+    top:-44px;
+}
+
+nav li a:hover{
+    color:#eddcd2;
+    transition: 1s;
+}
+
+
+
+
+
+
 body {
   width: 50%;
   margin: 10vw auto;
@@ -46,7 +77,7 @@ body {
 
 body{
 	font-family: 'Roboto Mono', monospace;
-	font-size: 20px;
+	font-size: 18px;
 	background-color: #fffcf2;
 	text-align: left;
 	margin: auto;
