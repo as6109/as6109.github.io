@@ -29,6 +29,23 @@ h2{
 	background-size: 100%;
 }
 
+.navbar-nav > li{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .div-line{
+    border-top: 1.2px solid #8A97AD; 
+  }
+  .space-between-section-top{
+    padding-top: 30px;
+  }
+  .space-between-section-bottom{
+    padding-bottom: 30px;
+  }
+  .space-between-words{
+    padding-bottom: 20px;
+  }
+
 body {
   width: 50%;
   margin: 10vw auto;
